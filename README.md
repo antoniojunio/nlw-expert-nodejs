@@ -1,5 +1,3 @@
-![Cover](./.github/cover.png)
-
 # NLW Expert (Node.js)
 
 A real-time voting system where users can create a poll and other users can cast their votes. The system generates a ranking among the options and updates the votes in real-time.
@@ -108,14 +106,5 @@ Add a vote to specific poll.
 }
 ```
 <!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
 
 <!--END_SECTION:footer-->
